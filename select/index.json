@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "右手のネイル",
+  "base_artist": "とた",
+  "createdAt": "2026-02-16T07:36:19.813846Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "右手のネイル",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_右手のネイル_とた.txt"
+    }
+  ]
+}
